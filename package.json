@@ -1,0 +1,24 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "Just a websocket sample",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.3.26",
+    "babel-cli": "^6.4.5",
+    "babel-core": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13",
+    "bottlejs": "^1.2.1",
+    "harmony-proxy": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "nodejs"
+  ],
+  "author": "Kinn Coelho Juliao",
+  "license": "GPL-3.0"
+}
